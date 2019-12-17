@@ -7,6 +7,9 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
+/**
+ * расшифровка методом протяжного слова
+ */
 public class StringingWordEcr {
     public static void main(String[] args) throws IOException {
         File input = new File("src/main/resources/input/input_file.txt");

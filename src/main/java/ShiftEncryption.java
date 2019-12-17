@@ -1,6 +1,9 @@
 import java.io.*;
 import java.nio.charset.Charset;
 
+/**
+ * Шифрование сдвигом
+ */
 public class ShiftEncryption {
 
     private static final int BUF_SIZE = 1024;

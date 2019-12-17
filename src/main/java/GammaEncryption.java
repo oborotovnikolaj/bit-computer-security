@@ -3,6 +3,9 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
+/**
+ * Гамма шифрование
+ */
 public class GammaEncryption {
 
     static List<byte[]> statesToDecr = new ArrayList<>();
